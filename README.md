@@ -1,5 +1,8 @@
-### Hi I'm Mateus Nogueira 👋
-Welcome to my life
+### Hi. I'm Mateus Nogueira! 👋:technologist:
+🔭 I'm a Jr. Full Stack Java Developer graduating at [Generation Brasil](https://brazil.generation.org/).
+🌱 I’m currently learning Java, TypeScript, and other cool stuff!
+
+<img src="(https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="40" height="40" />
 
 ### Ferramentas e Tecnologias
 
