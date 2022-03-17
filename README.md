@@ -1,17 +1,13 @@
 # Hi. I'm Mateus Nogueira! 👋:man_technologist:
 
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="120" height="120" alt="img"/>
-</div>
-<div style="display:inline-block;">
-<p>
+<img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="140" height="140"/>
+
 🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>
+</br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!
 
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
-</p>
-</div>
 
 # :rocket: Some Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/>
