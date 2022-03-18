@@ -1,4 +1,4 @@
-# Hi. I'm Mateus Nogueira! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38"> :man_technologist::brazil:
+# Hi. I'm Mateus Nogueira! <img align="top" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38"> :man_technologist::brazil:
 
 <img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230"/>
 
@@ -8,7 +8,7 @@
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Oh My Zsh-informational?style=flat&logo=GNU Bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-OhMyZsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 
@@ -20,7 +20,7 @@
 
 # :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 
-![https://www.linkedin.com/in/mateus-nogueira-82b43b79](https://img.shields.io/badge/LinkedIn-mateus-nogueira-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LinkedIn-mateus-nogueira-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)
 
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="20"/>
 </a> 
