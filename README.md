@@ -36,6 +36,7 @@
 </a>
 <br>
 <br>
+<img src="https://media.giphy.com/media/MbrFEZ0eCpQAw/giphy.gif" height="50" width="200"/>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
