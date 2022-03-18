@@ -1,4 +1,4 @@
-# Hi. I'm Mateus Nogueira! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="50" width="50"> :man_technologist::brazil:
+# Hi. I'm Mateus Nogueira! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38"> :man_technologist::brazil:
 
 <img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230"/>
 
@@ -8,9 +8,8 @@
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Oh My Zsh-informational?style=flat&logo=Bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Oh My Zsh-informational?style=flat&logo=Shell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=VIM&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 
 # :rocket: Some Tools I Use
@@ -19,13 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
 
 
-# :heart: Let's get connected: <img align="middle" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
+# :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="20"/>
 </a> 
 <a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="20"/>
 </a>
 
-<img align="middle" src="https://media.giphy.com/media/WbNqQbrnAGr5e/giphy.gif" height="100" width="500"/>
+<img align="top" src="https://media.giphy.com/media/WbNqQbrnAGr5e/giphy.gif" height="120" width="480"/>
 
 
 <!--
