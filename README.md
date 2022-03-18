@@ -32,7 +32,7 @@
 <a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="23"/>
 </a><br><br><br>
 
-<p align="center"> <img src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif"/>
+<p align="center"> <img src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" height="200" width="400"/>
 </p>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
