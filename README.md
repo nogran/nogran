@@ -1,9 +1,9 @@
 <h1 align="center">
 Hi. I'm Mateus Nogueira! <img align="top" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38">:man_technologist::brazil:
-</h1>
-<h3 align="center">
+</h1><h3 align="center">
 Welcome to my GitHub profile
 </h3>
+<br>
 <img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230"/>
 
 🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.
@@ -25,15 +25,15 @@ Welcome to my GitHub profile
 <br><br>
 
 ## :rocket: Languages & Tools:
-<br>
-<p align="center" style="padding-right=60">
+<br><br>
+<p align="center" style="padding-right:60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 </br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
 </br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 </p>
-</br><br>
+</br>
 
 ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <br>
