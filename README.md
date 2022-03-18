@@ -8,10 +8,10 @@
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-OhMyZsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7dd00ff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/Editor-IntelliJ-IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/Shell-Oh My Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 
 # :rocket: Some Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/>
