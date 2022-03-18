@@ -1,4 +1,4 @@
-# Hi. I'm Mateus Nogueira! <img align="top" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38"> :man_technologist::brazil:
+# Hi. I'm Mateus Nogueira! <img align="top" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38">:man_technologist::brazil:
 
 <img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230"/>
 
@@ -8,7 +8,7 @@
 </br>
 😄 Pronouns: Ele/He
 </br>
-⚡ Fun fact: I volunteer at blood donation. <img src="https://tenor.com/bw0dy.gif" height="20" width="20">
+⚡ Fun fact: I volunteer at blood donation :drop_of_blood:
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
@@ -27,9 +27,9 @@
 <img src="https://media.giphy.com/media/ctakX2o5gA1QJppmsY/giphy.gif" height="120" width="120"/> <img src="https://media.giphy.com/media/wJfZOIx30vMEDm16jz/giphy.gif" height="120" width="120"/>
 
 # :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
-<a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="75" height="23"/>
+<a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="23"/>
 </a> 
-<a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55" height="23"/>
+<a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="23"/>
 </a>
 
 <!--
