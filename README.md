@@ -11,33 +11,28 @@
 ⚡ Interesting fact: I volunteer at blood donation :drop_of_blood:
 </br>
 :superhero: Fun fact: If I were a Superhero, I would like to be a Captain America.
-<br>
-<br>
-<br>
+<br><br><br>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
-<br>
-<br>
+<br><br>
+
 # :rocket: Some Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="32" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="32" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32"/>
-</br>
-<br>
-# <img align="top" src="https://media.giphy.com/media/MdS4GD9apkLxLyMmY9/giphy.gif" height= "50" width="50"/>
+</br><br>
 
 # :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="23"/>
 </a> 
 <a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="23"/>
-</a>
-<br>
-<br>
-<br>
-<img src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" style="margin:auto" height="200" width="400"/>
+</a><br><br><br>
+
+<img src="https://media.giphy.com/media/E8OyB7fmX9XSo/giphy.gif" style="margin:0 auto" height="200" width="400"/>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
