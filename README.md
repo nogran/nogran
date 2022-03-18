@@ -13,12 +13,12 @@
 :superhero: Fun fact: If I were a Superhero, I would like to be a Captain America.
 <br>
 <br>
+<br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
-<br>
 <br>
 # :rocket: Some Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/>
