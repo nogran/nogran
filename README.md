@@ -1,4 +1,4 @@
-# Hi. I'm Mateus Nogueira! <img align="middle" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38"> :man_technologist::brazil:
+# Hi. I'm Mateus Nogueira! <img align="top" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38"> :man_technologist::brazil:
 
 <img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230"/>
 
@@ -8,10 +8,10 @@
 </br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Oh My Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-OhMyZsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/Editor-IntelliJIDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
 
 # :rocket: Some Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/>
