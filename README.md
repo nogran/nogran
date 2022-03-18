@@ -37,7 +37,7 @@
 <br>
 <br>
 <br>
-<img margin:"0 auto" src="https://media.giphy.com/media/MbrFEZ0eCpQAw/giphy.gif" height="200" width="700"/>
+<img style="margin:0 auto" src="https://media.giphy.com/media/MbrFEZ0eCpQAw/giphy.gif" height="200" width="700"/>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
