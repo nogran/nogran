@@ -7,11 +7,11 @@
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!
 </br>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00f)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
 
 # :rocket: Some Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/>
@@ -27,7 +27,9 @@
 <a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="20"/>
 </a>
 
-<img align="top" src="https://media.giphy.com/media/WbNqQbrnAGr5e/giphy.gif" height="120" width="480"/>
+# <img align="top" src=" https://media.giphy.com/media/MdS4GD9apkLxLyMmY9/giphy.gif" height= "30" width="30"/>
+<img src="https://media.giphy.com/media/wJfZOIx30vMEDm16jz/giphy.gif" height="120" width="120"/>
+<img src="https://giphy.com/gifs/leonbridges-neon-profile-ctakX2o5gA1QJppmsY" height="120" width="120"/>
 
 
 <!--
