@@ -11,7 +11,8 @@
 ⚡ Interesting fact: I volunteer at blood donation :drop_of_blood:
 </br>
 :superhero: Fun fact: If I were a Superhero, I would like to be a Captain America.
-
+<br>
+<br>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=7d00ff)
