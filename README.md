@@ -6,6 +6,10 @@
 </br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!
 </br>
+😄 Pronouns: Ele/He
+</br>
+⚡ Fun fact: I volunteer at blood donation. <img src="https://tenor.com/bw0dy.gif" height="20" width="20">
+</br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Oh_My_Zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
@@ -23,9 +27,9 @@
 <img src="https://media.giphy.com/media/ctakX2o5gA1QJppmsY/giphy.gif" height="120" width="120"/> <img src="https://media.giphy.com/media/wJfZOIx30vMEDm16jz/giphy.gif" height="120" width="120"/>
 
 # :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
-<a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20"/>
+<a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="75" height="23"/>
 </a> 
-<a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55" height="20"/>
+<a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55" height="23"/>
 </a>
 
 <!--
