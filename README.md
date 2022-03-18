@@ -19,16 +19,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
 </br>
 
+# <img align="top" src="https://media.giphy.com/media/MdS4GD9apkLxLyMmY9/giphy.gif" height= "50" width="50"/>
+<img src="https://media.giphy.com/media/ctakX2o5gA1QJppmsY/giphy.gif" height="120" width="120"/> <img src="https://media.giphy.com/media/wJfZOIx30vMEDm16jz/giphy.gif" height="120" width="120"/>
+
 # :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
-
-
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20"/>
 </a> 
 <a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55" height="20"/>
 </a>
-
-# <img align="top" src="https://media.giphy.com/media/MdS4GD9apkLxLyMmY9/giphy.gif" height= "50" width="50"/>
-<img src="https://media.giphy.com/media/ctakX2o5gA1QJppmsY/giphy.gif" height="120" width="120"/> <img src="https://media.giphy.com/media/wJfZOIx30vMEDm16jz/giphy.gif" height="120" width="120"/>
 
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
