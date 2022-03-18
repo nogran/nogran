@@ -25,7 +25,6 @@
 </br>
 
 # <img align="top" src="https://media.giphy.com/media/MdS4GD9apkLxLyMmY9/giphy.gif" height= "50" width="50"/>
-<img src="https://media.giphy.com/media/ctakX2o5gA1QJppmsY/giphy.gif" height="120" width="120"/> <img src="https://media.giphy.com/media/wJfZOIx30vMEDm16jz/giphy.gif" height="120" width="120"/>
 
 # :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="23"/>
