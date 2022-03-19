@@ -34,15 +34,20 @@ Welcome to my GitHub profile
 </br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
 </div>
+`public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+  }
+}`
+#
 ------------------
-
 ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
+------------------
 <br>
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="23"/>
 </a> 
 <a href="mailto:mateusnog95@gmail.com?subject=Hello%20again"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="23"/>
 </a>
-![Gmail](https://img.shields.io/badge/mateusnog95-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br><br>
 
 <p align="center"> <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
