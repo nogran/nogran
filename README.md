@@ -51,6 +51,8 @@ Welcome to my GitHub profile
 </a>
 <br><br><br>
 
+[![](https://img.shields.io/badge/Gmail-mateusnog95-informational?style=flat&logo=Gmail&logoColor=white&color=7d00ff)](www.google.com)
+
 <p align="center"> <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
 </p>
 <!--
