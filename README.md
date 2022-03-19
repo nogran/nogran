@@ -36,8 +36,10 @@ Welcome to my GitHub profile
 </div></br><br>
 
 <div align="center">
-<a href="">[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
-</a></div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
+
+</div>
 
 ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <br>
