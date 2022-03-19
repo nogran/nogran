@@ -45,10 +45,10 @@ Welcome to my GitHub profile
 
 <!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
 
-<br><br><br>
+<br><br>
 
-[![](https://img.shields.io/badge/Gmail-mateusnog95-informational?style=flat-square&logo=Gmail&logoColor=white&color=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
-[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0a66c2)](www.linkedin.com/in/mateusnog95)
+[![](https://img.shields.io/badge/Gmail-mateusnog95-0a66c2?style=flat-square&logo=Gmail&logoColor=white&color=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
+[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
 
 <p align="center"> <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
 </p>
