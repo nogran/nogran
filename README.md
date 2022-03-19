@@ -44,7 +44,8 @@ Welcome to my GitHub profile
 <!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
 
 [![](https://img.shields.io/badge/Gmail-mateusnog95-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
-[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?labelColor=0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
+[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
+[![](https://img.shields.io/badge/Discord-!_Mateus#9763-blue?style=flat-square&logo=Discord&logoColor=white&color=5865f2&labelColor=5865f2)]
 
 </div>
 
