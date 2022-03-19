@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi. I'm Mateus Nogueira! <img align="top" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="38" width="38">:man_technologist::brazil:
+Hi. I'm Mateus Nogueira! <img align="top" src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" height="38" width="38">:man_technologist::brazil:
 </h1><h3 align="center">
 Welcome to my GitHub profile
 </h3>
@@ -12,9 +12,9 @@ Welcome to my GitHub profile
 </br>
 😄 Pronouns: Ele/He
 </br>
-⚡ Interesting fact: “A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker :drop_of_blood:
+<img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="10" height="10"/> “A program is never less than 90% complete, and never more than 95% complete.”- Terry Baker
 </br>
-<em>A repetição, leva à maestria.</em>
+I remember everyday <em>"A repetição, leva à maestria."</em>
 <br><br><br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
