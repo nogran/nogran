@@ -39,6 +39,8 @@ Welcome to my GitHub profile
 
 <div align="center">
 
+<em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
 
 <!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
@@ -46,7 +48,7 @@ Welcome to my GitHub profile
 [![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
 [![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
 
-</div>
+<br></div>
 
 ------------------
 
