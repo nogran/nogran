@@ -33,8 +33,8 @@ Welcome to my GitHub profile
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70">
 </br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
-</div>
-</br>
+</div></br>
+
 ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <br>
 <a href="https://www.linkedin.com/in/mateus-nogueira-82b43b79" target="_blank"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="23"/>
