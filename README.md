@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi. I'm Mateus Nogueira! <img align="top" src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" height="38" width="38">:man_technologist::brazil:
+Hi. I'm Mateus Nogueira! <img align="top" src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" height="38" width="38">:man_technologist::brazil:
 </h1><h3 align="center">
 Welcome to my GitHub profile
 </h3>
