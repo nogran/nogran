@@ -35,7 +35,8 @@ Welcome to my GitHub profile
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
 </div></br><br>
 
-<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
 </div>
 ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <br>
