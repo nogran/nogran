@@ -54,8 +54,8 @@ Welcome to my GitHub profile
 
 <div align="center">
 
-<em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em>
-<br>
+<h5><em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em></h5>
+<br><br>
 <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
 
 </div>
