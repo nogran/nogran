@@ -48,6 +48,8 @@ Welcome to my GitHub profile
 
 </div>
 
+------------------
+
 <br><br>
 
 <p align="center"> <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
