@@ -22,7 +22,6 @@ Welcome to my GitHub profile
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
 <br><br>
 
@@ -35,7 +34,6 @@ Welcome to my GitHub profile
 </br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
 </div>
-</br>
 
 ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/>
 <br>
