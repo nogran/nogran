@@ -50,13 +50,15 @@ Welcome to my GitHub profile
 
 ------------------
 
-<br><br>
+<br>
 
-<p align="center">
+<div align="center">
+
 <em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em>
+<br>
 <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
 
-</p>
+</div>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
