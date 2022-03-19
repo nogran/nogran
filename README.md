@@ -39,8 +39,6 @@ Welcome to my GitHub profile
 
 <div align="center">
 
-<em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
 
 <!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
@@ -54,7 +52,10 @@ Welcome to my GitHub profile
 
 <br><br>
 
-<p align="center"> <img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
+<p align="center">
+<em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em>
+<img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
+
 </p>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
