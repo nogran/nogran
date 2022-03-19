@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi. I'm Mateus Nogueira! <img align="top" src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" height="38" width="38">:man_technologist::brazil:
+Hi. I'm Mateus Nogueira! <img align="top" src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" height="38" width="38">:man_technologist::brazil:
 </h1><h3 align="center">
 Welcome to my GitHub profile
 </h3>
@@ -12,7 +12,7 @@ Welcome to my GitHub profile
 </br>
 😄 Pronouns: Ele/He
 </br>
-<img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="20" height="20"/> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker
+<img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="14" height="14"/> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker
 </br>
 I remember everyday <em>"A repetição, leva à maestria."</em>
 <br><br><br>
