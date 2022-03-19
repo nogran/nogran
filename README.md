@@ -12,9 +12,9 @@ Welcome to my GitHub profile
 </br>
 😄 Pronouns: Ele/He
 </br>
-⚡ Interesting fact: I volunteer at blood donation :drop_of_blood:
+⚡ Interesting fact: “A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker :drop_of_blood:
 </br>
-:superhero: Fun fact: If I were a Superhero, I would like to be a Captain America.
+<em>A repetição, leva à maestria.</em>
 <br><br><br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
