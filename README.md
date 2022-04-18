@@ -31,7 +31,7 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70"/>
 <br><br>
 
-<div>
+<p>
 <img align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/?username=nogran&border_color=000000&repo=github-readme-stats" />
@@ -39,7 +39,7 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 <a href="https://github.com/anuraghazra/git-hub-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&border_color=000000&layout=compact" />
 </a>
-</div>
+</p>
 
 </div></br><br>
 
