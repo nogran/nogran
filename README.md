@@ -31,7 +31,12 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70"/>
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogran)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=nogran">
+<img align="center" src="https://github.com/anuraghazra/github-readme-stats "/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&layout=compact">
+<img align="center" src"https://github.com/anuraghazra/github-readme-stats "/>
+</a>
 
 </div></br><br>
 
