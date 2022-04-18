@@ -35,7 +35,7 @@ I remember every day <em>"A repetição, leva à maestria."</em>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nogran "/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
- <img align="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&layout=compact&repo=convoychat "/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&layout=compact&repo=convoychat "/>
 </a>
 
 </div></br><br>
