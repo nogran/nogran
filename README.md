@@ -33,9 +33,10 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=nogran&border_color=000000&repo=github-readme-stats" />
+</a>
 <a href="https://github.com/anuraghazra/git-hub-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&layout=compact" />
-</a></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&border_color=000000&layout=compact" />
+</a>
 
 </div></br><br>
 
