@@ -32,7 +32,7 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 <br><br><br>
 
 <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/?username=nogran&border_color=000000&repo=github-readme-stats" />
-<img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&border_color=000000&layout=compact" />
+<img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&border_color=000000&layout=compact" />
 
 </div></br><br>
 
