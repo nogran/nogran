@@ -45,7 +45,7 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 
 <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api/?username=nogran&theme=swift&repo=github-readme-stats" />
 &nbsp;
-<img align="center" width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&theme=swift&layout=compact" />
+<img align="center" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&theme=swift&layout=compact" />
 
 </div></br><br>
 
