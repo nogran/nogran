@@ -70,19 +70,20 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 
 ------------------
 
-<br>
+<br><br>
 
 ```java
 class quotes {
+
     public static void main(String[] args)
     {
         System.out.println("author: Albert Einstein");
-        System.out.println("text: I have no special talent. I am only passionately curious.”);
+        System.out.println("text: I have no special talent. I am only passionately curious.");
     }
 }
 ```
 
-<br><br><br>
+<br><br>
 
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
