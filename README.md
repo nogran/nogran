@@ -72,8 +72,6 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 
 <br>
 
-<div align="center">
-
 ```
 class quotes {
     public static void main(String[] args)
@@ -86,7 +84,6 @@ class quotes {
 
 <br><br><br>
 
-</div>
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
