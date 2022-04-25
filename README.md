@@ -74,9 +74,17 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 
 <div align="center">
 
-<em>“Big man in a suit of armor. Take that off, what are you?” - Steve Rogers.</em>
+```
+class quotes {
+    public static void main(String[] args)
+    {
+        System.out.println("author: Albert Einstein");
+        System.out.println("text: I have no special talent. I am only passionately curious.”);
+    }
+}
+```
+
 <br><br><br>
-<img src="https://quotes.mirrorreview.com/wp-content/uploads/2021/03/6.jpg" height="250" width="450"/>
 
 </div>
 <!--
