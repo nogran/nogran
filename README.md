@@ -73,10 +73,10 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 <br><br>
 
 ```java
-class quotes {
+class Quotes {
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
+
         System.out.println("author: Albert Einstein");
         System.out.println("text: I have no special talent. I am only passionately curious.");
     }
