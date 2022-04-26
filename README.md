@@ -68,6 +68,7 @@ class Quotes {
 }
 ```
 <br>
+
 ------------------
 
 <div align="center">
