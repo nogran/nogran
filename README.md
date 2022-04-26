@@ -57,21 +57,6 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 
 ------------------
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
-
-<!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
-
-[![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
-[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
-
-<br></div>
-
-------------------
-
-<br><br>
-
 ```java
 class Quotes {
 
@@ -83,7 +68,18 @@ class Quotes {
 }
 ```
 
-<br><br>
+------------------
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
+
+<!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
+
+[![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
+[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
+
+<br></div>
 
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
