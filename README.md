@@ -83,7 +83,7 @@ class Quotes {
 [![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
 [![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
 
-<br></div>
+</div>
 
 <!--
 **nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
