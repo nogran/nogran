@@ -58,8 +58,6 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 ------------------
 
 <br>
-
-
 ```java
 class Quotes {
 
@@ -70,7 +68,6 @@ class Quotes {
     }
 }
 ```
-
 <br>
 
 ------------------
