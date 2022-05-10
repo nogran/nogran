@@ -32,10 +32,10 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/>
-&nbsp;
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/>
 &nbsp;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70"/>
@@ -45,6 +45,9 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 &nbsp;
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
+&nbsp;
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70"/>
 <br><br><br><br>
 
 <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api/?username=nogran&theme=swift&repo=github-readme-stats" />
