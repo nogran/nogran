@@ -7,9 +7,11 @@
 😄 Pronouns: Ele/He
 <br>
 <img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="14" height="14"> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker<br>
-I remember every day <em>"A repetição, leva à maestria."</em><br><br><br>
+I remember every day <em>"A repetição, leva à maestria."</em>
 </div>
+<div>
 <img src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230">
+</div>
 </div>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
