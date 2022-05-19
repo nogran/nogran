@@ -1,8 +1,8 @@
 <h1 align="center">Hi. I'm Mateus Nogueira! :man_technologist::brazil:</h1>
 <h3 align="center">Welcome to my GitHub profile</h3><br>
-<img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230"/>
+<img align="right" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif" width="230" height="230">
 
-<p>🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
+🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!<br>
 😄 Pronouns: Ele/He
 <br>
@@ -13,7 +13,7 @@ I remember every day <em>"A repetição, leva à maestria."</em><br><br><br>
 ![](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
-<br></p>
+<br><br>
 
 ## :rocket: Languages & Tools:
 <br><br>
@@ -77,18 +77,3 @@ class Quotes {
 [![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateusnog95/)
 
 </div>
-
-<!--
-**nogran/nogran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
