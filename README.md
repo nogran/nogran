@@ -1,6 +1,6 @@
 <h1 align="center">Hi. I'm Mateus Nogueira! :man_technologist::brazil:</h1>
 <h3 align="center">Welcome to my GitHub profile</h3><br>
-<div style="display: flex">
+<div style="display: grid; grid-template-columns: auto auto">
 <div>
 🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!<br>
