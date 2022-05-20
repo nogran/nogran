@@ -1,6 +1,7 @@
 <h1 align="center">Hi. I'm Mateus Nogueira! :man_technologist::brazil:</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
-<img align="right" width="30" height="30" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif">
+<div align="right">
+<img width="30" height="30" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif">
 🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!<br>
 😄 Pronouns: Ele/He<br>
@@ -11,7 +12,7 @@ I remember every day <em>"A repetição, leva à maestria."</em>
 ![](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
-<br><br>
+</div><br><br>
 
 ## :rocket: Languages & Tools:
 <br><br>
