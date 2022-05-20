@@ -1,7 +1,7 @@
 <h1 align="center">Hi. I'm Mateus Nogueira! :man_technologist::brazil:</h1>
 <h3 align="center">Welcome to my GitHub profile</h3><br>
 <div>
-<img align="right" width="230" height="230" src="https://media.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.gif">
+<img align="right" width="230" height="230" src="https://i.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.webp">
 🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!<br>
 😄 Pronouns: Ele/He<br>
