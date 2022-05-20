@@ -1,11 +1,11 @@
 <h1 align="center">Hi. I'm Mateus Nogueira! :man_technologist::brazil:</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
-<div align="right">
-<img width="230" height="230" src="https://i.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.webp">
+<div>
+<img align="right" width="230" height="230" src="https://i.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.webp">
 🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
 🌱 I’m currently learning Java, Spring Boot and other cool stuff!<br>
 😄 Pronouns: Ele/He<br>
-<img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="13" height="13"> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker<br>
+<img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="14" height="14"> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker<br>
 I remember every day <em>"A repetição, leva à maestria."</em>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
