@@ -15,7 +15,7 @@ I remember every day <em>"A repetição, leva à maestria."</em><br><br><br>
 </div><br>
 
 ## :rocket: Languages & Tools:
-<br><br>
+<br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70">
 &nbsp;
