@@ -32,6 +32,9 @@ I remember every day <em>"A repetição, leva à maestria."</em><br><br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70">
+&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70">
 &nbsp;
 &nbsp;
