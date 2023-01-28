@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/IDEA-IntelliJ-informational?style=flat&logo=IntelliJ&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/IDEA-IntelliJ-informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=7d00ff)
 </div><br>
 
 ## :rocket: Languages & Tools:
