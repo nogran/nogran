@@ -2,11 +2,11 @@
 <h3 align="center">Welcome to my GitHub profile</h3><br>
 <div>
 <img align="right" width="230" height="230" src="https://i.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.webp">
-🔭 I'm a Jr. Full Stack Java Developer graduating at <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a>.<br>
-🌱 I’m currently learning Java, Spring Boot and other cool stuff!<br>
-😄 Pronouns: Ele/He<br>
+🔭 I'm a Software Developer graduating at <a href="https://ufu.br/" target="_blank">Universidade Federal de Uberlândia</a>.<br>
+🌱 I’m currently learning Java, Spring, microservices and other cool stuff!<br>
+😄 Pronouns: He/Ele<br>
 <img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="14" height="14"> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker<br>
-I remember every day <em>"A repetição, leva à maestria."</em><br><br><br>
+return I remember every day ? <em> "Repetition leads to mastery."</em> : <em>"A repetição, leva à maestria."</em><br><br><br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
