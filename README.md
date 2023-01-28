@@ -9,9 +9,9 @@
 <em> return </em>I remember every day ? <em> "Repetition leads to mastery."</em> : <em>"A repetição, leva à maestria"</em>;<br><br><br>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/Tools-Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=7d00ff)
+![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=Intellij&logoColor=white&color=7d00ff)
 </div><br>
 
 ## :rocket: Languages & Tools:
