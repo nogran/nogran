@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Mateus Nogueira! :man_technologist</h1>
+<h1 align="center">Hi. I'm Mateus Nogueira! 👨‍💻</h1>
 <h3 align="center">Welcome to my GitHub profile</h3><br>
 <div>
 <img align="right" width="230" height="230" src="https://i.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.webp">
