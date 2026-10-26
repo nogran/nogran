@@ -75,7 +75,7 @@ class Quotes {
 
 <!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
 
-[![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateusnog95@gmail.com?subject=Hello%20World)
-[![](https://img.shields.io/badge/LinkedIn-/mateusnog95-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateus-nog/)
+[![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateus@nogranlabs.com.br?subject=Hello%20World)
+[![](https://img.shields.io/badge/LinkedIn-/mateus-nog-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/mateus-nog/)
 
 </div>
