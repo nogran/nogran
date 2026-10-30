@@ -47,7 +47,7 @@ Engenheiro de software backend com **5+ anos em Java e Spring Boot**: 3 anos em 
 
 ## Vamos conversar
 
-Estou aberto a vagas de backend Java (pleno e sênior) e de IA aplicada, em CLT, remoto ou híbrido.
+Estou aberto a vagas de backend Java (pleno e sênior) e de IA aplicada, em CLT ou PJ, remoto ou híbrido.
 
 [![E-mail](https://img.shields.io/badge/E--mail-mateusnog95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateusnog95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--nog-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-nog/)
