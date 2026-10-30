@@ -1,81 +1,53 @@
-<h1 align="center">Hi. I'm Mateus Nogueira! 👨‍💻</h1>
-<h3 align="center">Welcome to my GitHub profile</h3><br>
-<div>
-<img align="right" width="230" height="230" src="https://i.giphy.com/media/PaB0GTtttzn2ch0vdT/giphy.webp">
-🔭 I'm a Software Engineer graduating at <a href="https://ufu.br/" target="_blank">Federal University of Uberlândia</a>.<br>
-🌱 I’m currently learning Java, Spring, microservices and other cool stuff!<br>
-😄 Pronouns: He/Ele<br>
-<img src="https://www.emojiall.com/images/60/emojitwo/269b.png?ezimgfmt=rs:60x60/rscb2/ng:webp/ngcb2" width="14" height="14"> “A program is never less than 90% complete, and never more than 95% complete.” - Terry Baker<br>
-Daily reminder: "Repetition leads to mastery"<br><br><br>
+<h1 align="center">Mateus Nogueira</h1>
+<h3 align="center">Engenheiro de Software Backend Java · Spring Boot · DDD · IA aplicada (RAG)</h3>
+<p align="center"><i>Backend Software Engineer (Java, Spring Boot) · Brazil</i></p>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/Tools-Spring-informational?style=flat&logo=SpringBoot&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=7d00ff)
-![](https://img.shields.io/badge/IDEA-IntelliJ-informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=7d00ff)
-</div><br>
+<p align="center">
+  Uberlândia, MG · aberto a CLT (remoto ou híbrido) ·
+  <a href="mailto:mateusnog95@gmail.com">mateusnog95@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/mateus-nog/">LinkedIn</a> ·
+  <a href="https://www.nogranlabs.com.br">nogranlabs.com.br</a>
+</p>
 
-## :rocket: Languages & Tools:
-<br>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" height="70">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65">
-&nbsp;
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70">
-<br><br><br><br>
+---
 
-<img align="center" width="53%" src="https://github-readme-stats.vercel.app/api/?username=nogran&theme=swift&repo=github-readme-stats" />
-&nbsp;
-<img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogran&theme=swift&layout=compact&hide=jupyter%20notebook">
+## Sobre mim
 
+Engenheiro de software backend com **5+ anos em Java e Spring Boot**: 3 anos em sistemas críticos de faturamento no setor elétrico (Matrix Energia) e produtos próprios como consultor na **Nogran Labs**. Modelo o domínio com DDD e Arquitetura Hexagonal, escrevo testes automatizados (JUnit, Mockito, Testcontainers) e coloco o que construo em produção. Concluo Sistemas de Informação na [UFU](https://ufu.br/) em dez/2026.
 
-</div></br><br>
+## O que venho construindo
 
-------------------
+- **Justina**: assistente jurídica no WhatsApp, em produção em piloto com um escritório de advocacia. Java 21, Spring Boot, Spring Modulith e Spring AI, com RAG em PostgreSQL/pgvector e um EVAL que barra qualquer PR com regressão. A base legal é pública: [leis-brasileiras](https://github.com/nogran/leis-brasileiras), com 15 normas federais e 6 fontes de jurisprudência, captura imutável e validação de integridade.
+- **PDV SaaS**: ponto de venda em Java 21 e Spring Boot, com DDD, Arquitetura Hexagonal e ArchUnit. No ar e em validação com cliente.
+- **NogCut** (em pausa): pipeline que transforma vídeos longos em cortes, com Whisper, seleção de clipes, legendas e publicação.
+- **Iniciação Científica (MFLab / UFU)**: paralelização com MPI de um solver de radiação térmica, com speedup de 3,3× validado contra a versão serial.
 
-<br>
+## Stack
 
-```java
-class Quotes {
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3_·_Serverless-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP_Storage-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana_·_Loki-F46800?style=flat&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-    public static void main(String[] args) {
+**Backend:** Java, Spring Boot, Spring Modulith, Spring Security/OAuth2, Spring AI, JPA/Hibernate, Flyway
+**Testes e qualidade:** JUnit, Mockito, Testcontainers, ArchUnit, SonarQube
+**Dados e IA:** PostgreSQL, pgvector, RAG, OpenAI, Whisper, n8n
 
-        System.out.println("author: Albert Einstein");
-        System.out.println("text: I have no special talent. I am only passionately curious.");
-    }
-}
-```
-<br>
+## Como trabalho
 
-------------------
+- Domínio primeiro (DDD) e jornada do usuário para derivar os cenários de teste.
+- Testes de integração com Testcontainers e migrações versionadas com Flyway.
+- CI/CD com GitHub Actions e logs estruturados com Grafana e Loki.
 
-<div align="center">
+## Vamos conversar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=650&height=100&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!;Let's+get+connected)](https://git.io/typing-svg)
+Estou aberto a vagas de backend Java (pleno e sênior) e de IA aplicada, em CLT, remoto ou híbrido.
 
-<!-- ## :heart: Let's get connected: <img align="top" src="https://media.giphy.com/media/CVgswLRgV3nqw/giphy.gif" height= "30" width="30"/> -->
-
-[![](https://img.shields.io/badge/-mateusnog95@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=ea4335&labelColor=ea4335)](mailto:mateus@nogranlabs.com.br?subject=Hello%20World)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2Fmateus--nog-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-nog/)
-
-</div>
+[![E-mail](https://img.shields.io/badge/E--mail-mateusnog95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateusnog95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--nog-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-nog/)
